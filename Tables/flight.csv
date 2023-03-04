@@ -1,0 +1,5 @@
+flightid,flightname,arrival,depature,date,fare,seats,duration
+FL001,airindia,Hyderabad,Mumbai,2023-02-04,500,46,12
+FL002,SpiceJet,Goa,Hyderabad,2023-03-04,5000,14,3
+FL003,Deccan,Hyderabad,Chennai,2023-03-04,800,38,2
+FL004,AirIndia,Hyderabad,Goa,2023-03-05,8000,39,3

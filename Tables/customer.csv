@@ -1,0 +1,8 @@
+CustID,FirstName,LastName,PassportID,NICID,DOB,Gender,Contact,Address
+CS001,anusha,poli,1233456,1123,2023-02-03,Female,123456789,hyd
+CS002,dummy,dum,1478969,12131,2019-02-08,Female,678901235,hyd
+CS003,rahul,kandhukuri,89012,865671,2012-02-23,Male,890123456,Noida
+CS004,arjun,kulshatra,89067,1576731687,2023-02-08,Male,6898687676,ramnagar
+CS005,Anil,Kumar,66890756,1234,2017-02-10,Male,8096243171,Hyderabad
+CS006,Anusha,Polishetti,1233563,133,2023-03-15,Female,8096243171,Hyderabad
+CS007,anil,kumar,12345678,123,1996-03-13,Male,8096243171,Delhi
